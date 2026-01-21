@@ -99,8 +99,8 @@ http://localhost/carsdekho/
 
 ```
 URL: http://localhost/carsdekho/admin/login.php
-Username: admin
-Password: admin123
+Username: admin@gmail.com
+Password: 123456
 ```
 
 > (Change credentials after first login)
